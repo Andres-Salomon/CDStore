@@ -7,6 +7,7 @@ The chosen endpoints were for:
 #Endpoints:
 - localhost:8080/cd/cd?artist=artista1
 - localhost:8080/artist/cds?artist=artista1
+
 artista1 is the name of the artist in this example
 
 # Instructions
