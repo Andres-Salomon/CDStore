@@ -5,7 +5,7 @@ The chosen endpoints were for:
 - getting artists given the name of a CD
 
 # Instructions
--   Download Project and the [insert.sql](shorturl.at/diyR6) file
+-   Download Project and the [insert.sql](https://drive.google.com/file/d/1u_uVhwi1A-DEFBrKE-RLvjcvtapqwLCg/view?usp=share_link) file
 -   Import Project
 -   Run
 -   Stop
