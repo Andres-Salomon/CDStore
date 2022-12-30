@@ -18,3 +18,7 @@ artista1 is the name of the artist in this example
 -   Create cdstore schema
 -   Do the insert from the sql file
 -   Run the project again.
+
+#   Entity Relationship Diagram
+![ERD](https://i.postimg.cc/vTDstJ8z/CDStorev2-drawio.png
+ "Entity Relationship Diagram")
