@@ -9,5 +9,6 @@ The chosen endpoints were for:
 -   Import Project
 -   Run
 -   Stop
+-   Create cdstore schema
 -   Do the insert from the sql file
 -   Run the project again.
